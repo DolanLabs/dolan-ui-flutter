@@ -1,4 +1,4 @@
-library dolanlabs_flutter_ui;
+library dolan_ui_flutter;
 
 export 'src/colors/colors.dart';
 export 'src/typography/typography.dart';
