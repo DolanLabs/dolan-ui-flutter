@@ -1,5 +1,18 @@
 import 'package:flutter/material.dart';
 
+/// A Shadow class containing [BoxShadow] implementations
+///
+/// Usage example:
+///
+/// ```dart
+/// Container(
+///   decoration: BoxDecoration(
+///   boxShadow: const [
+///     Shadowlan.shadowCard,
+///     Shadowlan.shadowButton,
+///    ],
+/// ),
+/// ```
 class Shadowlan {
   static const BoxShadow shadowBottomSheet = BoxShadow(
     color: Color(0XFFeabf40),

@@ -1,5 +1,14 @@
 import 'package:flutter/material.dart';
 
+/// A Shade Color class containing:
+///
+/// Usage example:
+///
+/// ```dart
+/// Color coolBlue60 = ShadeColor.coolBlue60
+/// Color red10 = ShadeColor.red10
+/// Color yellow20 = BrandColor.yellow20
+/// ```
 class ShadeColor {
   static const Color coolBlue40 = Color(0XFF99aaff);
   static const Color coolBlue20 = Color(0XFFccd4ff);
