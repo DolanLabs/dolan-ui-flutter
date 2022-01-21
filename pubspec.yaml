@@ -1,7 +1,7 @@
 name: dolanlabs_flutter_ui
 description: DolanLabs UI Kit library for flutter.
 version: 0.0.1
-homepage: "www.dolanlabs.com"
+homepage: "www.dolanlabs.id"
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
